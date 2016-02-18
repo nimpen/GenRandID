@@ -1,14 +1,4 @@
 <?php
-/*
-** ASBRA AB, www.asbra.nu <j@asbra.nu>
-** GNU GENERAL PUBLIC LICENSE, Version 3, 29 June 2007
-**
-** EXAMPLE:
-** $ab=new GenRandID();
-** $enc=$ab->encode('15');
-** $dec=$ab->decode('8dw');
-*/
-
 class GenRandID {
 
 	// All the vowels, some consonants and some numbers have been removed
