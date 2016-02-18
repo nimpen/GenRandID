@@ -9,7 +9,7 @@
 ** $dec=$ab->decode('8dw');
 */
 
-class asbraUniqueID {
+class GenRandID {
 
 	// All the vowels, some consonants and some numbers have been removed
 	public $TR_ENC = '56789dfghjklmnpqrstvwz';
