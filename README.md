@@ -3,7 +3,6 @@ PHP Class for generating unique non chronologic ids from a number list
 
 # Example
 
-<?php
 require_once('class.asbraUniqueID.php');
 $ab=new asbraUniqueID();
 
@@ -15,4 +14,3 @@ while ($i <= 500) {
 	echo $ab->decode($enc)." <br />";
 	$i++;
 }
-?>
